@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631891483568",
+    "project_id": "kickering-flutter",
+    "storage_bucket": "kickering-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631891483568:android:c923f0f102f9cd33b85475",
+        "android_client_info": {
+          "package_name": "by.yahorfralou.kickering_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631891483568-8ah7qdar7refmi228hdbeldedosg9uma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSUqoqw-pJUUwb893rvdIR3a7XHmbbAlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631891483568-8ah7qdar7refmi228hdbeldedosg9uma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
